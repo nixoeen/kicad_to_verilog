@@ -1,1 +1,1 @@
-tinysexpr>=1.0.1
+tinysexpr>=1.1
